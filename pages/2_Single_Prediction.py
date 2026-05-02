@@ -198,7 +198,7 @@ if submitted:
 
     # Phase 5: Action plan (Driven by ML Risk)
     st.markdown("---")
-    st.subheader("💡 Recommended Action Plan")
+    st.subheader("Recommended Action Plan")
 
     risk = results['risk_level']
 
@@ -216,18 +216,18 @@ if submitted:
         
         with c1:
             with st.container(border=True):
-                st.markdown("#### 🎯 Contract Migration")
+                st.markdown("#### Contract Migration")
                 st.write("Offer a **15-20% discount** for switching from Month-to-Month to a 12-month plan.")
                 st.caption("Quick Win • Removes monthly flight risk")
                 
             with st.container(border=True):
-                st.markdown("#### 💳 Payment Auto-Pay")
+                st.markdown("#### Payment Auto-Pay")
                 st.write("Incentivize switching to Auto-Pay with a **one-time $20 credit**.")
                 st.caption("Quick Win • Reduces payment friction")
                 
         with c2:
             with st.container(border=True):
-                st.markdown("#### 📞 Early Intervention")
+                st.markdown("#### Early Intervention")
                 st.write("Schedule a **proactive retention call** within the next 7 days.")
                 st.caption("Strategic Bet • Addresses immediate friction")
 
@@ -242,18 +242,18 @@ if submitted:
         c1, c2 = st.columns(2)
         with c1:
             with st.container(border=True):
-                st.markdown("#### 🛡️ Service Bundle")
+                st.markdown("#### Service Bundle")
                 st.write("Offer a **free 3-month trial** of the Online Security + Tech Support bundle.")
                 st.caption("Fill-In • Increases platform reliance")
                 
             with st.container(border=True):
-                st.markdown("#### 💳 Payment Modernization")
+                st.markdown("#### Payment Modernization")
                 st.write("Guide migration from mailed checks to online auto-pay with a **small monthly discount**.")
                 st.caption("Quick Win • Modernizes account")
                 
         with c2:
             with st.container(border=True):
-                st.markdown("#### 🌐 Digital Onboarding")
+                st.markdown("#### Digital Onboarding")
                 st.write("If they lack internet, offer an entry-level bundle at an **introductory rate**.")
                 st.caption("Strategic Bet • Massive upsell potential")
 
@@ -268,18 +268,18 @@ if submitted:
         c1, c2 = st.columns(2)
         with c1:
             with st.container(border=True):
-                st.markdown("#### ⭐ VIP Loyalty")
+                st.markdown("#### VIP Loyalty")
                 st.write("Ensure enrollment in tiered loyalty programs (anniversary rewards, early access).")
                 st.caption("Strategic Bet • Validates loyalty")
                 
             with st.container(border=True):
-                st.markdown("#### 🤝 Referral Incentive")
+                st.markdown("#### Referral Incentive")
                 st.write("Offer a **$25 statement credit** for each successful referral.")
                 st.caption("Fill-In • Low CAC acquisition")
                 
         with c2:
             with st.container(border=True):
-                st.markdown("#### 📈 Cross-sell Premium")
+                st.markdown("#### Cross-sell Premium")
                 st.write("Pitch premium speed upgrades or bundled family streaming packages.")
                 st.caption("Quick Win • Increases Lifetime Value")
 
