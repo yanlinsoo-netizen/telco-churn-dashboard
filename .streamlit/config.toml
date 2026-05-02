@@ -1,0 +1,14 @@
+[theme]
+base="light"
+
+# Background
+backgroundColor="#ebf3ff" 
+
+# Sidebar and containers
+secondaryBackgroundColor="#fff6f6" 
+
+# Deep slate for text
+textColor="#1e2333" 
+
+# Buttons and highlights
+primaryColor="#dc5224"
