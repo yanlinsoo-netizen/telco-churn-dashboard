@@ -5,7 +5,7 @@
 An end-to-end machine learning application built with Python and Streamlit. This dashboard provides actionable, data-driven retention strategies using predictive modeling, customer segmentation, and Explainable AI (XAI).
 
 ## Live Demo
-[**Access the Live Web App Here**]([https://](https://telco-churn-dashboard-fmzec8kcqnv7y93mmvxm8h.streamlit.app/))
+[**Access the Live Web App Here**]([https://telco-churn-dashboard-fmzec8kcqnv7y93mmvxm8h.streamlit.app/])
 
 ---
 
